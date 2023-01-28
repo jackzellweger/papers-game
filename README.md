@@ -1,2 +1,4 @@
 # papers-game
-A game about academic papers
+A game of academic papers.
+
+
